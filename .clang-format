@@ -1,0 +1,3 @@
+BasedOnStyle: Google
+SpaceAfterTemplateKeyword: No
+ColumnLimit: 100
